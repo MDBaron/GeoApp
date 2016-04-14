@@ -21,7 +21,7 @@ public class TrueFalse {
         mQuestion = question;
     }
 
-    public boolean ismTrueQuestion(){
+    public boolean isTrueQuestion(){
         return mTrueQuestion;
     }
 
